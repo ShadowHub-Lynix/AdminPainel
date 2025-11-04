@@ -1,8 +1,12 @@
     ----------///// SISTEMA-ADMIN /////------------ 
 allowedUsers = {
-    ----------///// TIK-TOK /////------------           
+    ----------///// DONO - SUB DONO /////------------           
+    ["HBT_QiOzdb9pNL"]       = true, -- DONO
+    ["Zelaojg"]              = true, -- DONO
     
     
+    ----------/// TIK-TOK /////------------            
+    ["miuuq_333"]            = true, -- OLIVEIRA
     
     ----------///// TEMPORARIOS /////-------------
     ["CaioFxp71"]            = true, -- 27/09 30/10
@@ -37,7 +41,6 @@ allowedUsers = {
     ["edu_gachalifeofc"]     = true, -- 03/10 03/12
     ["darckzin803"]          = true, -- 4/11 14/11
    ----------///// PERMANENTE ACESS /////------------
-    ["HBT_QiOzdb9pNL"]       = true,  -- Dono
     ["MEMENOMI52"]           = true,  
     ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
@@ -63,7 +66,6 @@ allowedUsers = {
     ["MENOR_RSA"]            = true,
     ["dvdfy4wfiyf"]          = true,
     ["Luizmiguel0156"]       = true,
-    ["Foortataq"]            = true,
     ------STAFF
     ["vendasbraint"]         = true,
             
