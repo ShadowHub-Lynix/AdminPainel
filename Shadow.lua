@@ -35,7 +35,7 @@ allowedUsers = {
     ["1x4_Queijo"]           = true, -- 29/09 29/02
     ["codexxprp1000"]        = true, -- 29/09 29/10
     ["edu_gachalifeofc"]     = true, -- 03/10 03/12
-
+    ["darckzin803"]          = true, -- 4/11 14/11
    ----------///// PERMANENTE ACESS /////------------
     ["HBT_QiOzdb9pNL"]       = true,  -- Dono
     ["MEMENOMI52"]           = true,  
