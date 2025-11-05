@@ -1,6 +1,6 @@
     ----------///// SISTEMA-ADMIN /////------------ 
 allowedUsers = {
-    ----------///// DONO - SUB DONO /////------------           
+----------///// DONO - SUB DONO /////------------           
     ["HBT_QiOzdb9pNL"]       = true, -- DONO
     ["Zelaojg"]              = true, -- DONO
     
@@ -69,7 +69,7 @@ allowedUsers = {
     ["Luizmiguel0156"]       = true,
     ------STAFF
     ["vendasbraint"]         = true,
-            
+    ["foortataq"] = true, -- liberado via bot
 }
 
 return allowedUsers
