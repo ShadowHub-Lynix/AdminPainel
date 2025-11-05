@@ -69,6 +69,7 @@ allowedUsers = {
     ["Luizmiguel0156"]       = true,
     ------STAFF
     ["vendasbraint"]         = true, -- liberado via bot
+    ["foortataq"] = true, -- liberado via bot
 }
 
 return allowedUsers
