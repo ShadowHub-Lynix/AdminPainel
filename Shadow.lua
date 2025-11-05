@@ -40,6 +40,7 @@ allowedUsers = {
     ["codexxprp1000"]        = true, -- 29/09 29/10
     ["edu_gachalifeofc"]     = true, -- 03/10 03/12
     ["darckzin803"]          = true, -- 4/11 14/11
+    ["yvitormanuel12"]       = true, -- 05/11 5/1
    ----------///// PERMANENTE ACESS /////------------
     ["MEMENOMI52"]           = true,  
     ["ninoezekielgael"]      = true, 
