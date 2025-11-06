@@ -69,8 +69,7 @@ allowedUsers = {
     ["Luizmiguel0156"]       = true,
     ------STAFF
     ["vendasbraint"]         = true, -- liberado via bot
-    ["foortataq"] = true, -- liberado via bot
-    ["7ryr461"] = true, -- liberado via bot
+    ["foortataq"] = true, -- liberado via bot -- liberado via bot
 }
 
 return allowedUsers
