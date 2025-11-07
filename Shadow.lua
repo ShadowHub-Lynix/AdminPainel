@@ -42,6 +42,7 @@ allowedUsers = {
     ["darckzin803"]          = true, -- 4/11 14/11
     ["yvitormanuel12"]       = true, -- 05/11 5/1
    ----------///// PERMANENTE ACESS /////------------
+    ["Dracius244"]           = true,
     ["MEMENOMI52"]           = true,  
     ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
@@ -71,6 +72,7 @@ allowedUsers = {
     ["vendasbraint"]         = true, -- liberado via bot
     ["Foortataq"]            = true,
     ["Arthurxp0913"]         = true, -- liberado via bot -- liberado via bot
+
 }
 
 return allowedUsers
